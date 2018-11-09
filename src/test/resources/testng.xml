@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="JiraTest">
+	<test name="test login">
+		<classes>
+			<class name="selenium_exercise.test.TestLogin"/>
+		</classes>
+	</test>
+</suite>
